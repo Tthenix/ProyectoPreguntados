@@ -1,5 +1,3 @@
-import Preguntas from preguntas
-
 class inicio:
     def __init__(self, start= "start", inicio= ""):
         self.Inico = start
