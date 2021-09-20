@@ -1,57 +1,61 @@
 
 
-
-class matematica:
+class Matematica:
      def __init__(self):
-        self.PreguntaM1 = ""
-        self.PreguntaM2 = ""
-        self.PreguntaM3 = ""
-        self.PreguntaM4 = ""
-        self.PreguntaM5 = ""
-        self.PreguntaM6 = ""
-        self.PreguntaM7 = ""
-        self.PreguntaM8 = ""
-        self.PreguntaM9 = ""
-        self.PreguntaM10 = ""
+        self.Pregunta1 = "a"
+        self.Pregunta2 = "b"
+        self.Pregunta3 = "c"
+        self.Pregunta4 = "d"
+        self.Pregunta5 = "f"
+        self.Pregunta6 = "g"
+        self.Pregunta7 = "h"
+        self.Pregunta8 = "i"
+        self.Pregunta9 = "j"
+        self.Pregunta10 = "k"
+         
+        preguntas = [self.Pregunta1, self.Pregunta2, self.Pregunta3]
+        print ([preguntas])
+      
+
 
 class programacion:
     def __init__(self):
-        self.PreguntaP1 = ""
-        self.PreguntaP2 = ""
-        self.PreguntaP3 = ""
-        self.PreguntaP4 = ""
-        self.PreguntaP5 = ""
-        self.PreguntaP6 = ""
-        self.PreguntaP7 = ""
-        self.PreguntaP8 = ""
-        self.PreguntaP9 = ""
-        self.PreguntaP10 = ""
+        self.Pregunta1 = ""
+        self.Pregunta2 = ""
+        self.Pregunta3 = ""
+        self.Pregunta4 = ""
+        self.Pregunta5 = ""
+        self.Pregunta6 = ""
+        self.Pregunta7 = ""
+        self.Pregunta8 = ""
+        self.Pregunta9 = ""
+        self.Pregunta10 = ""
 
 class fisica:
     def __init__(self) -> None:
-        self.PreguntaF1 = ""
-        self.PreguntaF2 = ""
-        self.PreguntaF3 = ""
-        self.PreguntaF4 = ""
-        self.PreguntaF5 = ""
-        self.PreguntaF6 = ""
-        self.PreguntaF7 = ""
-        self.PreguntaF8 = ""
-        self.PreguntaF9 = ""
-        self.PreguntaF10 = "" 
+        self.Pregunta1 = ""
+        self.Pregunta2 = ""
+        self.Pregunta3 = ""
+        self.Pregunta4 = ""
+        self.Pregunta5 = ""
+        self.Pregunta6 = ""
+        self.Pregunta7 = ""
+        self.Pregunta8 = ""
+        self.Pregunta9 = ""
+        self.Pregunta10 = ""
 
 class  teleinformatica:
     def __init__(self):
-        self.PreguntaT1 = ""
-        self.PreguntaT2 = ""
-        self.PreguntaT3 = ""
-        self.PreguntaT4 = ""
-        self.PreguntaT5 = ""
-        self.PreguntaT6 = ""
-        self.PreguntaT7 = ""
-        self.PreguntaT8 = ""
-        self.PreguntaT9 = ""
-        self.PreguntaT10 = "" 
+        self.Pregunta1 = ""
+        self.Pregunta2 = ""
+        self.Pregunta3 = ""
+        self.Pregunta4 = ""
+        self.Pregunta5 = ""
+        self.Pregunta6 = ""
+        self.Pregunta7 = ""
+        self.Pregunta8 = ""
+        self.Pregunta9 = ""
+        self.Pregunta10 = ""
 
 class laboratorioDeHardware:
     def __init__(self):
