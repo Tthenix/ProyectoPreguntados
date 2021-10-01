@@ -1,3 +1,5 @@
+import class Matematica from Preguntas
+
 class inicio:
     def __init__(self, start= "start", inicio= ""):
         self.Inico = start
